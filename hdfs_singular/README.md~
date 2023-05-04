@@ -1,0 +1,9 @@
+This code defines two functions, retrieve_data() and store_data_hdfs(), which are responsible for making the API request and storing the data in HDFS, respectively. These functions are then called from the main block of the code.
+
+The program takes five arguments from the command line using the argparse module: api_url, api_param1, api_param2, hdfs_url, and hdfs_path. These parameters are then passed to the retrieve_data() and store_data_hdfs() functions as appropriate.
+
+code 1
+
+To run this program, you would execute it from the command line like so:
+
+code 2

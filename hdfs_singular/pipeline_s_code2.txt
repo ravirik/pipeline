@@ -1,0 +1,5 @@
+ 
+python program_name.py api_url param1 param2 hdfs_url hdfs_path
+
+python data_pipeline.py http://api.example.com/data value1 value2 :xhttp://namenode:50070 /data/example.json
+
