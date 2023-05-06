@@ -16,11 +16,11 @@ Create a CI/CD pipeline to automate the ingestion of data from a web API request
 
 Here is some example code that might be included in the Python script to retrieve data from the web API:
 
-code 1
+pipeline_code1.py
 
 And here is some example code that might be included in the Python script to store data in HDFS:
 
-code 2
+pipeline_code2.py
 
 Note that this code is just an example and will need to be modified to fit your specific use case. In particular, you'll need to replace the url, params, and client variables with values that are appropriate for your web API and HDFS setup.
 
